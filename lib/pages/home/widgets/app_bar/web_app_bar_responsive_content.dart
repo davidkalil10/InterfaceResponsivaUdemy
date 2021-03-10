@@ -13,7 +13,7 @@ class WebAppBarResponsiveContent extends StatelessWidget {
                     height: 45,
                     decoration: BoxDecoration(
                       color: Colors.grey[100],
-                      border: Border.all(color: Colors.grey[600]!),
+                      border: Border.all(color: Colors.grey[600]),
                     ),
                     child: Row(
                       children: [
